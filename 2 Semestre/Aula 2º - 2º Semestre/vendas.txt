@@ -1,0 +1,3 @@
+Produto;Quantidade;Preço
+Notebook;2;3500
+Teclado;3;450

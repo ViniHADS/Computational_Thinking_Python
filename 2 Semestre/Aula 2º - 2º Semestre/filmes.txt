@@ -1,0 +1,7 @@
+titulo;genero;ano
+Interestelar;Ficção Científica;2014
+Parasita;Drama;2019
+Toy Story;Animação;1995
+Oppenheimer;Drama;2023
+Mad Max - Estrada da Fúria;Acao;2015
+Titanic;Romance;1997
